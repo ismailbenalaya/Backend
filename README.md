@@ -1,6 +1,6 @@
 # Backend
 
-A backend server project designed to provide robust and scalable API services for your application. Built with [Your Framework/Language], this project aims to offer a modular architecture for managing data and business logic efficiently.
+A backend server project designed to provide robust and scalable API services for your application. Built with nodejs and javascript , this project aims to offer a modular architecture for managing data and business logic efficiently.
 
 ## Table of Contents
 
